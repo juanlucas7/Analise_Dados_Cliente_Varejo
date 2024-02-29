@@ -11,8 +11,8 @@ ________________________________________________________________________________
 #### ✅ Departamentos mais vendidos;z
 #### ✅ Média de preço com frete por departamento;
 #### ✅ Quantidade de vendas por mês;z
-#### ✅ Média de renda para cada tipo de canal de venda;
-#### ✅ Média de idade de clientes por bandeira;
+#### ✅ Média de renda para cada tipo de canal de venda;z
+#### ✅ Média de idade de clientes por bandeira;z
 ####  📍 Além de outras premissas para o negócio.
 
 
@@ -35,5 +35,7 @@ Idade de Média por Bandeira:
 Idade Média por Cancal de Venda:
 
 ![transferir (3)](https://github.com/juanlucas7/Analise_Dados_Cliente_Varejo/assets/149596266/23f021db-63f4-44bb-9d12-ed4c0164576c)
+
+
 
 
